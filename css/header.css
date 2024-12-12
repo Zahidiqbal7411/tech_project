@@ -1,0 +1,32 @@
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 0px;
+    color:black;
+     width: 1250px;
+
+  
+}
+.header img{
+    width: 120px;
+    height:65px;
+    border-radius: 6px;
+    margin-top: 40px;
+    /* padding-left:300px; */
+    
+
+    
+
+}
+.header tr td{
+   
+    background-color:rgb(121, 115, 53);
+    border-radius: 10px 10px 0px 0px;
+    padding-inline-start: 170px;
+    
+}
+.nav-header {
+    padding-block-start: 30px; /* Adjust the value as needed */
+    
+}

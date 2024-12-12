@@ -1,0 +1,47 @@
+.menu_bar {
+    background-color:#c99808;
+    width: 1250px;
+    height: 60px;
+    display: flex;
+    
+}
+
+.menu_bar a {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    display: block;
+    width: 142.3px;
+    border-right: 1px solid #fff;
+    line-height: 50px;
+    padding: 0 10px; Adds padding inside the link for better spacing */
+}
+
+.menu_bar a:hover {
+    background-color: rgb(55, 43, 226);
+}
+
+.menu_bar a:visited {
+    background-color:;
+}
+.menu_bar ul{
+    list-style: none;
+    display: flex;
+ 
+}
+.menu_bar ul li{
+    padding: 10px 30px;
+}
+.menu_bar ul li a {
+    color:black  ;
+    text-decoration: none;
+    font-size: 20px;
+    caret-color: transparent;
+    font-weight: bold;
+    display: block;
+    
+}
+

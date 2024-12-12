@@ -1,0 +1,66 @@
+.form-group{
+    max-width: 800px;
+    background-color: aliceblue;
+    padding: 50px;margin: 0px auto;
+    border-radius: 8px;
+    margin-top: 12px;
+    line-height:15px ;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    height:1000px;
+    justify-items: center;
+   
+}
+.form-group h2{
+    text-align: center;
+    margin-bottom: 550px;
+    align-items: center;
+
+}
+
+
+.input_style {
+    border-radius: 8px;
+   margin-block-end: 20px;
+    width: 250px;
+    height: 30px;
+    line-height: 600px;
+    margin-inline-start: 0px;
+   
+}
+.form-group form label{
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 100px;
+    padding-top: 20px;
+    margin-inline-start: 100px;
+
+
+
+}
+
+.submit-btn{
+    background-color:#A7D477;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-align: center;
+    
+   
+  
+}
+.custom-select select{
+    width:200px;
+    padding: 10px;
+    font-size:15px;
+    border-radius: 5px;
+    cursor:pointer; 
+    border:1px solid #ccc;
+
+}
+.form-group form label, input{
+    display: flexbox;
+}
+industry{
+    height: 200px;
+}
